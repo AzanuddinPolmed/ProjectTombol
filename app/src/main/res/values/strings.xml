@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">dtsHello</string>
+    <string name="ok">OK</string>
+    <string name="ini_adalah_teks_view_3">INI ADALAH TEKS VIEW 3</string>
 </resources>
